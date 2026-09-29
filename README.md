@@ -15,6 +15,7 @@
 
 | 日期 | SaaS | 类型 | 一句话 | 报告 |
 |---|---|---|---|---|
+| 2026-09-29 | Buttondown | Newsletter SaaS | 慢复利：support + word of mouth + SEO + AI referral | [阅读](2026/09/2026-09-29-buttondown.md) |
 | 2026-09-28 | Tally | No-code / Form Builder | Freemium + viral loop + community/AI Search | [阅读](2026/09/2026-09-28-tally.md) |
 
 ## 高优先级专题
